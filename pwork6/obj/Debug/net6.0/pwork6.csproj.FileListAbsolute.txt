@@ -1,0 +1,17 @@
+C:\Users\Влад\source\repos\pwork6\pwork6\bin\Debug\net6.0\pwork6.exe
+C:\Users\Влад\source\repos\pwork6\pwork6\bin\Debug\net6.0\pwork6.deps.json
+C:\Users\Влад\source\repos\pwork6\pwork6\bin\Debug\net6.0\pwork6.runtimeconfig.json
+C:\Users\Влад\source\repos\pwork6\pwork6\bin\Debug\net6.0\pwork6.dll
+C:\Users\Влад\source\repos\pwork6\pwork6\bin\Debug\net6.0\pwork6.pdb
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.AssemblyInfoInputs.cache
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.AssemblyInfo.cs
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.csproj.CoreCompileInputs.cache
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.dll
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\refint\pwork6.dll
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.pdb
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.genruntimeconfig.cache
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\ref\pwork6.dll
+C:\Users\Влад\source\repos\pwork6\pwork6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.csproj.AssemblyReference.cache
+C:\Users\Влад\source\repos\pwork6\pwork6\obj\Debug\net6.0\pwork6.csproj.CopyComplete
